@@ -1,5 +1,6 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
+<Script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"/> 
 // import { Roboto, Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] })
 
