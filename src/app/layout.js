@@ -4,6 +4,7 @@ import { Inter } from 'next/font/google'
 
 // import { Roboto, Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] })
+import 'bootstrap/dist/css/bootstrap.css'
 
 export const metadata = {
   title: 'Create Next App',
